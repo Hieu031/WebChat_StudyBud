@@ -64,7 +64,7 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
+<img src="D:\StudyBud-master\z6033260690593_4c5d565449e35ea9af667135608e8458.jpg">
 </td> 
 <td width="50%">
 <br>
