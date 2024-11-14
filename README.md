@@ -64,7 +64,7 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="D:\StudyBud-master\z6033260690593_4c5d565449e35ea9af667135608e8458.jpg">
+<img src="URL_OF_FIRST_IMAGE" alt="Feed Home" width="100%">
 </td> 
 <td width="50%">
 <br>
