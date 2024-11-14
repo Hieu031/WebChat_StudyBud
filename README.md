@@ -54,25 +54,6 @@ python manage.py runserver
 
 #
 
-### App Preview :
 
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  Feed Home
-</p>
-<img src="URL_OF_FIRST_IMAGE" alt="Feed Home" width="100%">
-</td> 
-<td width="50%">
-<br>
-<p align="center">
-  Room Conversation Preview
-</p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
-</td>
-</table>
 
 
